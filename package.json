@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/jasmine": "^5.1.4",
+    "jasmine": "^5.1.0",
+    "karma": "^6.4.3",
+    "karma-jasmine": "^5.1.0",
+    "karma-typescript": "^5.5.4",
+    "typescript": "^5.4.5",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jasmine",
+    "test-ci": "karma start karma.conf.js --log-level debug --single-run"
+  }
+}
