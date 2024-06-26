@@ -1,8 +1,8 @@
 // src/add.spec.ts
-import { add } from "../src/hello_world.mjs";
+import Add from "../src/hello_world.mts";
 
 describe("add", () => {
   it("should add two numbers", () => {
-    expect(add(1, 2)).toBe(3);
+    expect(Add(1, 2)).toBe(3);
   });
 });

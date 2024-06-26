@@ -1,10 +1,7 @@
-export function add(a, b) {
+const Add = (a, b) => {
     return a + b;
-}
-// const Add = (a : number, b : number) => {
-//   return a + b;
-// };
-// export default Add;
+};
+export default Add;
 // interface User {
 //     name: string;
 //     id: number;
