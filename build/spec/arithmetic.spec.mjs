@@ -1,6 +1,7 @@
+// Importing mts file is resolve import from mjs
 // importing from foo.mts
 // import { foo } from "./foo.mjs";
-// importing from bar.cts
+// importing from bar.cts 
 // import { bar } from "./bar.cjs";
 // importing from baz.js
 // import { baz } from "./baz.js";
