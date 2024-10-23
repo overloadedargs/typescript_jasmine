@@ -6,9 +6,7 @@ Information on Typescript module files here [NodeJS TypeScript](https://nodejs.o
 
 Add  ```"jasmine"
         "jasmine-browser-runner"
-        "typescript"```
-
-to your package.json
+        "typescript"``` to your package.json
 
 then `npm install`
 
@@ -18,7 +16,7 @@ If you are adding this into an existing project then you will need the tsconfig.
 
 `npm test` to run the tests in the console for example in CI.
 
-`npx jasmine-browser-runner serve`
+`npx jasmine-browser-runner serve` to run the tests in the browser runner
 
 If everything is running fine you should see Jasmine Browser Runner at localhost:8888
 
