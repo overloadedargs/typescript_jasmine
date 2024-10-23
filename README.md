@@ -4,8 +4,8 @@ Information on Typescript module files here [NodeJS TypeScript](https://nodejs.o
 
 ## Installation
 
-Add  ```"jasmine"
-        "jasmine-browser-runner"
+Add  ```"jasmine",
+        "jasmine-browser-runner",
         "typescript"``` to your package.json
 
 then `npm install`
