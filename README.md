@@ -20,4 +20,4 @@ If you are adding this into an existing project then you will need the tsconfig.
 
 If everything is running fine you should see Jasmine Browser Runner at localhost:8888
 
-![Jasmine Test Runner](https://github.com/overloadedargs/typescript_jasmine/blob/main/Jasmine_browser_runner.png) "Jasmine Browser Runner")
+![Jasmine Test Runner](https://github.com/overloadedargs/typescript_jasmine/blob/main/Jasmine_browser_runner.png) "Jasmine Browser Runner"
